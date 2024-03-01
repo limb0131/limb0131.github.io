@@ -1,11 +1,7 @@
-<div align="center">
-
 # **<span class="smallcaps">Brian Lim</span>**
 
 [<u>brianlim0201@gmail.com</u>](mailto:brianlim0201@gmail.com) |
 [<u>github.com/limb0131</u>](https://github.com/limb0131)
-
-</div>
 
 # Education
 
