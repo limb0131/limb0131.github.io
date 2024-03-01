@@ -103,7 +103,6 @@
   <tr class="odd">
   <td style="text-align: left;"><u><strong>Booking Website</strong></u>
   <span class="math inline">|</span> <em>React, Emailjs</em></td>
-  <td style="text-align: right;"></td>
   </tr>
   </tbody>
   </table>
@@ -120,7 +119,6 @@
   <tr class="odd">
   <td style="text-align: left;"><u><strong>Movie Guide</strong></u> <span
   class="math inline">|</span> <em>Java, HQSLDB</em></td>
-  <td style="text-align: right;"></td>
   </tr>
   </tbody>
   </table>
@@ -137,7 +135,6 @@
   <tr class="odd">
   <td style="text-align: left;"><u><strong>Game of Life</strong></u> <span
   class="math inline">|</span> <em>Java</em></td>
-  <td style="text-align: right;"></td>
   </tr>
   </tbody>
   </table>
@@ -153,7 +150,6 @@
   <tr class="odd">
   <td style="text-align: left;"><u><strong>Triangle Cutter</strong></u>
   <span class="math inline">|</span> <em>Processing</em></td>
-  <td style="text-align: right;"></td>
   </tr>
   </tbody>
   </table>
@@ -171,7 +167,6 @@
   <tr class="odd">
   <td style="text-align: left;"><u><strong>Space Rocket</strong></u> <span
   class="math inline">|</span> <em>Processing</em></td>
-  <td style="text-align: right;"></td>
   </tr>
   </tbody>
   </table>
@@ -189,11 +184,7 @@
   <tbody>
   <tr class="odd">
   <td style="text-align: left;"><strong>UoM devClub</strong></td>
-  <td style="text-align: right;"></td>
-  </tr>
-  <tr class="even">
-  <td style="text-align: left;"><em>Executive Member</em></td>
-  <td style="text-align: right;"><em></em></td>
+  <td style="text-align: right;">Executive Member</td>
   </tr>
   </tbody>
   </table>
