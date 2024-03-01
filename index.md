@@ -24,7 +24,7 @@
 
 # Technical Skills
 
-**Programming Languages**: Java, C, C++, HTML/CSS, React  
+**Programming Languages**: Java, Python, C, C++, HTML/CSS, React  
 **Developer Tools**: JetBrains IDE, Git, VSCode
 
 # Experience
