@@ -6,7 +6,7 @@ The prerequisites to get started will include the following:
 - A resume formatted in Markdown (See link under More Resources to learn more).
 - Basic knowledge on how to use Github.
 - A Markdown editor (Recommended).
-- Andrew Etter's book "Modern Technical Writing" (Recommended).
+- Andrew Etter's book "Modern Technical Writing" (Recommended. Link to book under More Resources).
 ## Instructions
 This is a step-by-step guide on creating a properly formatted resume and hosting it on Github Pages.
 ### Step 1: Creating a Resume
@@ -57,6 +57,8 @@ Mardown Tutorial: https://www.markdownguide.org/
 Github Tutorial: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
 Github Pages Tutorial: https://pages.github.com/
+
+Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
 ## Authors and Acknowledgements
 ## FAQs
