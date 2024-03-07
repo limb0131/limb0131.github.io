@@ -45,7 +45,7 @@ This is a step-by-step guide on creating a properly formatted resume and hosting
 
   6. Congratulations! Your resume should now be hosted on Github Pages.
 
-     - To verify this is the case, nagivate to `github.com/[GithubUsername].github.io`. The link should nagivate you to your webpage where your resume is displayed.
+     - To verify this is the case, nagivate to `[GithubUsername].github.io`. The link should nagivate you to your webpage where your resume is displayed.
     
      - If this is not the case and you are not able to see your resume, give it a couple minutes for the system to upload your files to the server, as it may just be an issue of upload times.
     
