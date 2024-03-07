@@ -62,3 +62,11 @@ Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction
 
 ## Authors and Acknowledgements
 ## FAQs
+
+Q: **"Why is Markdown better than a word processor?"**
+
+   - Although Word is great for a simple writing task, Markdown is better in the sense that it gives the user more control over the whole process. Think of Mardown as taking the training wheels off, leaving you with better control and freedom of your work once you've learned the basics. 
+
+Q **"Why is my resume not showing up?"**
+
+   - This may be due to the server not yet fulling processing the file you have uploaded. Give it 5-10 minutes before refreshing the page. If it is still not showing up, make sure you have named the file and repository correctly.
