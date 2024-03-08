@@ -35,7 +35,7 @@ This is a step-by-step guide on creating a properly formatted resume and hosting
     
      - If your resume is still not displayed on your page after being refreshed a couple minutes later, look back at the instructions and make sure you have followed the steps correctly.
     
-### Optional Steps:
+### Optional Step:
 
   1. If you find that your webpage is looking a little plain, you have the option of adding a theme using one of the pre-made jekyll themes.
 
