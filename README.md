@@ -8,6 +8,7 @@ The prerequisites to get started will include the following:
 - A Markdown editor (Recommended).
 - Andrew Etter's book "Modern Technical Writing" (Recommended. Link to book under More Resources).
 ## Instructions
+
 This is a step-by-step guide on creating a properly formatted resume and hosting it on Github Pages.       
 
 ### Hosting your Resume on Github Pages
@@ -38,6 +39,25 @@ This is a step-by-step guide on creating a properly formatted resume and hosting
 
   1. If you find that your webpage is looking a little plain, you have the option of adding a theme using one of the pre-made jekyll themes.
 
+      - These themes may be found in a link found under More Resources.
+      
+  2. Once locating a theme that you are happy with, create a file named `_config.yml` in your repository.
+
+      - A new file can be added to the repository by clicking the "+" beside the green button that reads "code", which can be located at the top of the repository view.
+    
+  3. Now that you have your new file, edit the file with the line `theme: jekyll-theme-[nameofyourtheme]`.
+
+     - Make sure to change `[nameofyourtheme]` with your chosen theme. In this tutorial, the theme `slate` was used, resulting in `theme: jekyll-theme-slate`
+
+  4. Finally, save the file with an appropriate commit message and you are done!. Just wait a few minutes for the theme to get applied and watch your webpage come to life!
+
+### Final View of the Webpage:
+
+  If you have followed along with this tutorial properly, you should end up with the following. If you have not applied any jekyll theme or have chosen a different one, your webpage may look slightly different from the provided output.
+
+![demogif](https://github.com/limb0131/limb0131.github.io/assets/66758985/02b105f4-ebe8-4b2e-a255-1061d65bdba5)
+
+
 ## More Resources
 Mardown Tutorial: https://www.markdownguide.org/
 
@@ -47,10 +67,17 @@ Github Pages Tutorial: https://pages.github.com/
 
 Andrew Etter's book: https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS
 
-Jekyll Themes: add link
+Jekyll Themes: https://pages.github.com/themes/
 
 ## Authors and Acknowledgements
+
+  First, I would like to start off by thanking my 3040 professor Prof. Wilcox for providing me with the necessary information required to learn more about modern technical writing. I would also like to thank my 3040 group members for helping review and revise my writing. Lastly, I would like to thank the developer of the jekyll theme "slate" for allowing the public to access and utilize his work.
+  
 ## FAQs
+
+Q: **"Why do I want to format a document with a static site generator?"**
+
+   - Building your resume on a static site generator can help you keep your resume up to date. You may have come across time where you have multiple files with the same name, but with a number such as "(1)". Files such as PDFs saved to your computer does not override the existing one, instead creating a duplicate. Hosting your resume online will give you the power to have a single file synced with the latest information.
 
 Q: **"Markdown is too hard. Do I have to use it?"**
 
